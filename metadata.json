@@ -1,0 +1,6 @@
+{
+  "name": "Brew Haven Coffee Co.",
+  "description": "Artisanal coffee house offering premium brews, loyalty rewards, and a cozy dining experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
