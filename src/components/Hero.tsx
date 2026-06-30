@@ -104,7 +104,7 @@ export default function Hero({ onOpenReservation, onOpenMenu, onAddPopularItem }
           {/* Large Hero Image - OVERFLOW VISIBLE added here */}
           <div className="relative w-full max-w-[580px] aspect-[4/3] rounded-[32px] overflow-visible shadow-2xl border border-mocha/20">
             <img
-              src="/src/assets/images/hero_coffee_croissant_1782760453157.jpg"
+              src="https://i.postimg.cc/G2cDBCfp/download-(11).jpg"
               alt="Artisanal Latte Art Cup and Golden Croissant on Plate"
               className="w-full h-full object-cover select-none rounded-[32px]"
             />
